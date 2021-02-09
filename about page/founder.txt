@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <h1>MY CV</h1>
+        <link href="css/style.css" rel="stylesheet">
+        <style>
+        body {
+               color: white;
+}
+  </style>
+                  <body bgcolor="gray">
+<img src="image.jpg" width="300" height="300">
+
+<link type="text/css" rel="stylesheet" href="https://www.dropbox.com/s/trsldt0me90jzs8/resume.css"/>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<div id="header">
+<p id="name">Amina Abdulkadir Kassim</p>
+         <a href="mailto:muhibba9@gmail.com" target="_blank"><p id="email">muhibba9@gmail.com</p></a>
+         <p id="contact">+2349011840923</p>
+     </div>
